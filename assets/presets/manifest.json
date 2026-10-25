@@ -1,0 +1,14 @@
+{
+  "id": "preset-doodles-v1",
+  "title": "へんてこラクガキ団",
+  "images": [
+    { "id": "moko", "file": "moko.svg" },
+    { "id": "poyo", "file": "poyo.svg" },
+    { "id": "nami", "file": "nami.svg" },
+    { "id": "toge", "file": "toge.svg" },
+    { "id": "naga", "file": "naga.svg" },
+    { "id": "mimi", "file": "mimi.svg" },
+    { "id": "maru", "file": "maru.svg" },
+    { "id": "kumo", "file": "kumo.svg" }
+  ]
+}
